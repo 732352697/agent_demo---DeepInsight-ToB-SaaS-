@@ -1,0 +1,238 @@
+{
+  "metadata": {
+    "crawl_time": "2026-03-11T18:10:45.366748",
+    "platforms": [
+      "bilibili",
+      "douyin",
+      "xiaohongshu"
+    ],
+    "total_videos": 20
+  },
+  "data": {
+    "bilibili": [
+      {
+        "rank": 1,
+        "title": "反馈成功",
+        "video_url": "//www.bilibili.com/video/BV1vnP4ztEwA/",
+        "bvid": "",
+        "cover": "//i2.hdslb.com/bfs/archive/63c51c2deb4cbc5b9292e0cdf3cabedfe570483e.jpg@672w_378h_1c_!web-search-common-cover",
+        "play_count": "2.7万",
+        "like_count": "108",
+        "danmu_count": "10",
+        "author": "未知作者",
+        "platform": "bilibili"
+      },
+      {
+        "rank": 2,
+        "title": "反馈成功",
+        "video_url": "//www.bilibili.com/video/BV1nZiZBxEkE/",
+        "bvid": "",
+        "cover": "//i1.hdslb.com/bfs/archive/b3dfcc6aed6cd23c0ae4c3e9081c96bbdd96b5fc.jpg@672w_378h_1c_!web-search-common-cover",
+        "play_count": "2.2万",
+        "like_count": "6",
+        "danmu_count": "07",
+        "author": "未知作者",
+        "platform": "bilibili"
+      },
+      {
+        "rank": 3,
+        "title": "反馈成功",
+        "video_url": "https://www.bilibili.com/cheese/play/ss20333?query_from=0&search_id=14325581910756726516&search_query=AI%E7%BC%96%E7%A8%8B%E5%89%AF%E4%B8%9A&csource=common_hpsearch_null_null",
+        "bvid": "",
+        "cover": "//archive.biliimg.com/bfs/archive/11eb864bd5f9b75b55d2059118fa11b2c9d83b2c.jpg@672w_378h_1c_!web-search-common-cover",
+        "play_count": "116.5万",
+        "like_count": "116.5万",
+        "danmu_count": "0",
+        "author": "未知作者",
+        "platform": "bilibili"
+      },
+      {
+        "rank": 4,
+        "title": "反馈成功",
+        "video_url": "//www.bilibili.com/video/BV12ri1YuERk/",
+        "bvid": "",
+        "cover": "//i0.hdslb.com/bfs/archive/88edeb8650c1ceeb5b4655388d66651ce188b495.jpg@672w_378h_1c_!web-search-common-cover",
+        "play_count": "7.3万",
+        "like_count": "143",
+        "danmu_count": "11",
+        "author": "未知作者",
+        "platform": "bilibili"
+      },
+      {
+        "rank": 5,
+        "title": "反馈成功",
+        "video_url": "//www.bilibili.com/video/BV1NDcZztE3n/",
+        "bvid": "",
+        "cover": "//i0.hdslb.com/bfs/archive/dd86012ede8bd716b3a5f1c2ef6b535790842c45.jpg@672w_378h_1c_!web-search-common-cover",
+        "play_count": "0",
+        "like_count": "0",
+        "danmu_count": "04",
+        "author": "未知作者",
+        "platform": "bilibili"
+      },
+      {
+        "rank": 6,
+        "title": "反馈成功",
+        "video_url": "//www.bilibili.com/video/BV1RjapzQE3T/",
+        "bvid": "",
+        "cover": "//i2.hdslb.com/bfs/archive/d3334a0ffadcb761855bf57dd58c65bdd1513196.jpg@672w_378h_1c_!web-search-common-cover",
+        "play_count": "1.5万",
+        "like_count": "2",
+        "danmu_count": "04",
+        "author": "未知作者",
+        "platform": "bilibili"
+      },
+      {
+        "rank": 7,
+        "title": "反馈成功",
+        "video_url": "//www.bilibili.com/video/BV1RqfqYJEqF/",
+        "bvid": "",
+        "cover": "//i2.hdslb.com/bfs/archive/19b354852ddd39d9ec2163975dc79ed76ad70a7f.jpg@672w_378h_1c_!web-search-common-cover",
+        "play_count": "21.1万",
+        "like_count": "0",
+        "danmu_count": "06",
+        "author": "未知作者",
+        "platform": "bilibili"
+      },
+      {
+        "rank": 8,
+        "title": "反馈成功",
+        "video_url": "//www.bilibili.com/video/BV1APByYYEp3/",
+        "bvid": "",
+        "cover": "//i1.hdslb.com/bfs/archive/c5b81824af7b79b08d6420aca80fd29e2e955f7e.jpg@672w_378h_1c_!web-search-common-cover",
+        "play_count": "61.9万",
+        "like_count": "499",
+        "danmu_count": "11",
+        "author": "未知作者",
+        "platform": "bilibili"
+      },
+      {
+        "rank": 9,
+        "title": "反馈成功",
+        "video_url": "https://www.bilibili.com/cheese/play/ss902689569?query_from=0&search_id=14325581910756726516&search_query=AI%E7%BC%96%E7%A8%8B%E5%89%AF%E4%B8%9A&csource=common_hpsearch_null_null",
+        "bvid": "",
+        "cover": "//archive.biliimg.com/bfs/archive/a2eaef0727b12ded1e17d7a39cfdfa17b77f6d1f.jpg@672w_378h_1c_!web-search-common-cover",
+        "play_count": "2.2万",
+        "like_count": "2.2万",
+        "danmu_count": "0",
+        "author": "未知作者",
+        "platform": "bilibili"
+      },
+      {
+        "rank": 10,
+        "title": "反馈成功",
+        "video_url": "//www.bilibili.com/video/BV1yns2zQEtH/",
+        "bvid": "",
+        "cover": "//i1.hdslb.com/bfs/archive/3b3ebe0880b918d938c3a2bb6f6708a34d16dc74.jpg@672w_378h_1c_!web-search-common-cover",
+        "play_count": "3.8万",
+        "like_count": "19",
+        "danmu_count": "04",
+        "author": "未知作者",
+        "platform": "bilibili"
+      }
+    ],
+    "douyin": [],
+    "xiaohongshu": [
+      {
+        "rank": 1,
+        "title": "想转行AI，做副业最有含金量的6个证书！",
+        "video_url": "https://www.xiaohongshu.com/explore/697a2251000000000e03c919",
+        "cover": "https://sns-webpic-qc.xhscdn.com/202603111810/6efacb15ac97643606e00fc9dfd3527b/1040g00831rsul86pia5g5p3oiv2484nq1h9oq88!nc_n_webp_mw_1",
+        "like_count": "159",
+        "collect_count": "0",
+        "author": "AI罗小卜\n01-28",
+        "platform": "xiaohongshu"
+      },
+      {
+        "rank": 2,
+        "title": "大三下我用claude3.7赚了8k",
+        "video_url": "https://www.xiaohongshu.com/explore/67c08957000000002900aa85",
+        "cover": "https://sns-webpic-qc.xhscdn.com/202603111810/768d2c527a8ec1898203897c305ad792/1040g00831edn07q4h66g5ol5j6v8dc4fph9e1to!nc_n_webp_mw_1",
+        "like_count": "292",
+        "collect_count": "0",
+        "author": "伊登AI\n2025-02-27",
+        "platform": "xiaohongshu"
+      },
+      {
+        "rank": 3,
+        "title": "程序员接私活平台",
+        "video_url": "https://www.xiaohongshu.com/explore/6763f4c8000000000900e0e1",
+        "cover": "https://sns-webpic-qc.xhscdn.com/202603111810/57c0217e4798e4a65d4218fbd06be0cf/110/0/01e763f496223abc00100000000193de737c0a_0.jpg!nc_n_webp_mw_1",
+        "like_count": "708",
+        "collect_count": "0",
+        "author": "金角大王Alex\n2024-12-19",
+        "platform": "xiaohongshu"
+      },
+      {
+        "rank": 4,
+        "title": "27岁程序员，下班用AI搞副业，又肝到凌晨两点",
+        "video_url": "https://www.xiaohongshu.com/explore/67b76b32000000000703708d",
+        "cover": "https://sns-webpic-qc.xhscdn.com/202603111810/ffb8d38b807e27a4a8198a03c06d8b68/1040g00831e4q2h8kgm005oqcnbfmbk3e1fp4gv8!nc_n_webp_mw_1",
+        "like_count": "102",
+        "collect_count": "0",
+        "author": "深漂程序员犬夜叉\n2025-02-21",
+        "platform": "xiaohongshu"
+      },
+      {
+        "rank": 5,
+        "title": "普通人如何用 AI 做出自己的小产品？💡",
+        "video_url": "https://www.xiaohongshu.com/explore/69aefcde000000000d00913c",
+        "cover": "https://sns-webpic-qc.xhscdn.com/202603111810/ba984689c64dca09fa8951470ec925b2/spectrum/1040g0k031tgigteqme005pkdaml6r8lqqml2iv8!nc_n_webp_mw_1",
+        "like_count": "赞",
+        "collect_count": "0",
+        "author": "AI浩然同学\n1天前",
+        "platform": "xiaohongshu"
+      },
+      {
+        "rank": 6,
+        "title": "29岁程序员用AI搞副业，4小时赚2000",
+        "video_url": "https://www.xiaohongshu.com/explore/67aeed85000000001701e8d7",
+        "cover": "https://sns-webpic-qc.xhscdn.com/202603111810/f2a6603a49950207aeff39870a570275/1040g2sg31dsgnk6m107g5pbpnmo73agjeffpono!nc_n_webp_mw_1",
+        "like_count": "13",
+        "collect_count": "0",
+        "author": "芒果冰Coding\n2025-02-14",
+        "platform": "xiaohongshu"
+      },
+      {
+        "rank": 7,
+        "title": "💰10个超实用网站，轻松赚生活费💸",
+        "video_url": "https://www.xiaohongshu.com/explore/67b70e0a000000002903c8cf",
+        "cover": "https://sns-webpic-qc.xhscdn.com/202603111810/249eb2367f1c589bd57e1464271f31ea/spectrum/1040g34o31e4ejla0h60g5npnf4o093cfp9ig97o!nc_n_webp_mw_1",
+        "like_count": "1138",
+        "collect_count": "0",
+        "author": "精神世界\n2025-02-20",
+        "platform": "xiaohongshu"
+      },
+      {
+        "rank": 8,
+        "title": "0粉0资源｜靠AI编程赚到第一笔收入",
+        "video_url": "https://www.xiaohongshu.com/explore/698c7430000000001d0257ab",
+        "cover": "https://sns-webpic-qc.xhscdn.com/202603111810/ab8875d5f816190b7708b5807ada2cc2/1040g00831ser56m768604bv3pb2u42063er4ifg!nc_n_webp_mw_1",
+        "like_count": "5",
+        "collect_count": "0",
+        "author": "赛博小墨\n02-11",
+        "platform": "xiaohongshu"
+      },
+      {
+        "rank": 9,
+        "title": "",
+        "video_url": "",
+        "cover": "",
+        "like_count": "0",
+        "collect_count": "0",
+        "author": "",
+        "platform": "xiaohongshu"
+      },
+      {
+        "rank": 10,
+        "title": "🔥程序员副业实录",
+        "video_url": "https://www.xiaohongshu.com/explore/68d23368000000000e024075",
+        "cover": "https://sns-webpic-qc.xhscdn.com/202603111810/30ab6f10f0fb81a786ce58f4c32f06b2/spectrum/1040g34o31mov00j6kq305o8iamb85j9fjhjmjb0!nc_n_webp_mw_1",
+        "like_count": "176",
+        "collect_count": "0",
+        "author": "打破信息差\n2025-10-27",
+        "platform": "xiaohongshu"
+      }
+    ]
+  }
+}

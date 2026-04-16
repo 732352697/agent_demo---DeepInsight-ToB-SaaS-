@@ -1,0 +1,32 @@
+# DeepInsight ToB SaaS 平台依赖
+
+# Streamlit 核心
+streamlit>=1.30.0
+
+# 认证与安全
+bcrypt>=4.1.0
+
+# 数据库
+sqlalchemy>=2.0.0
+
+# LLM 与 AI
+langchain>=0.2.0
+langchain-openai>=0.1.0
+langchain-community>=0.2.0
+pydantic>=2.7.0
+
+# 环境变量
+python-dotenv>=1.0.1
+
+# HTTP 与网络
+requests>=2.32.0
+
+# 音频处理
+mutagen>=1.47.0
+edge-tts>=6.1.0
+
+# 其他工具
+pillow>=10.0.0
+
+# 爬虫工具
+playwright>=1.40.0

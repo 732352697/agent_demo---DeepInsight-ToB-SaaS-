@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "crawl_time": "2026-03-11T18:07:15.660374",
+    "platforms": [
+      "bilibili",
+      "douyin",
+      "xiaohongshu"
+    ],
+    "total_videos": 10
+  },
+  "data": {
+    "bilibili": [
+      {
+        "rank": 1,
+        "title": "",
+        "video_url": "https://www.bilibili.com/video/",
+        "bvid": "",
+        "cover": "",
+        "play_count": "0",
+        "like_count": "0",
+        "danmu_count": "0",
+        "author": "",
+        "platform": "bilibili"
+      },
+      {
+        "rank": 2,
+        "title": "",
+        "video_url": "https://www.bilibili.com/video/",
+        "bvid": "",
+        "cover": "",
+        "play_count": "0",
+        "like_count": "0",
+        "danmu_count": "0",
+        "author": "",
+        "platform": "bilibili"
+      },
+      {
+        "rank": 3,
+        "title": "",
+        "video_url": "https://www.bilibili.com/video/",
+        "bvid": "",
+        "cover": "",
+        "play_count": "0",
+        "like_count": "0",
+        "danmu_count": "0",
+        "author": "",
+        "platform": "bilibili"
+      },
+      {
+        "rank": 4,
+        "title": "",
+        "video_url": "https://www.bilibili.com/video/",
+        "bvid": "",
+        "cover": "",
+        "play_count": "0",
+        "like_count": "0",
+        "danmu_count": "0",
+        "author": "",
+        "platform": "bilibili"
+      },
+      {
+        "rank": 5,
+        "title": "",
+        "video_url": "https://www.bilibili.com/video/",
+        "bvid": "",
+        "cover": "",
+        "play_count": "0",
+        "like_count": "0",
+        "danmu_count": "0",
+        "author": "",
+        "platform": "bilibili"
+      },
+      {
+        "rank": 6,
+        "title": "",
+        "video_url": "https://www.bilibili.com/video/",
+        "bvid": "",
+        "cover": "",
+        "play_count": "0",
+        "like_count": "0",
+        "danmu_count": "0",
+        "author": "",
+        "platform": "bilibili"
+      },
+      {
+        "rank": 7,
+        "title": "",
+        "video_url": "https://www.bilibili.com/video/",
+        "bvid": "",
+        "cover": "",
+        "play_count": "0",
+        "like_count": "0",
+        "danmu_count": "0",
+        "author": "",
+        "platform": "bilibili"
+      },
+      {
+        "rank": 8,
+        "title": "",
+        "video_url": "https://www.bilibili.com/video/",
+        "bvid": "",
+        "cover": "",
+        "play_count": "0",
+        "like_count": "0",
+        "danmu_count": "0",
+        "author": "",
+        "platform": "bilibili"
+      },
+      {
+        "rank": 9,
+        "title": "",
+        "video_url": "https://www.bilibili.com/video/",
+        "bvid": "",
+        "cover": "",
+        "play_count": "0",
+        "like_count": "0",
+        "danmu_count": "0",
+        "author": "",
+        "platform": "bilibili"
+      },
+      {
+        "rank": 10,
+        "title": "",
+        "video_url": "https://www.bilibili.com/video/",
+        "bvid": "",
+        "cover": "",
+        "play_count": "0",
+        "like_count": "0",
+        "danmu_count": "0",
+        "author": "",
+        "platform": "bilibili"
+      }
+    ],
+    "douyin": [],
+    "xiaohongshu": []
+  }
+}
